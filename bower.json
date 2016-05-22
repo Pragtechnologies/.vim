@@ -20,6 +20,7 @@
     "vimproc.vim": "Shougo/vimproc.vim",
     "tsuquyomi": "Quramy/tsuquyomi#^0.6.1",
     "vim-es6": "isRuslan/vim-es6",
-    "vim-mustache-handlebars": "mustache/vim-mustache-handlebars"
+    "vim-mustache-handlebars": "mustache/vim-mustache-handlebars",
+    "vim-markdown": "tpope/vim-markdown"
   }
 }
