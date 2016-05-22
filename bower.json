@@ -1,0 +1,25 @@
+{
+  "name": "vim",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vim-pathogen": "tpope/vim-pathogen",
+    "Command-T": "wincent/Command-T#^3.0.2",
+    "vim-fugitive": "tpope/vim-fugitive",
+    "vim-commentary": "tpope/vim-commentary",
+    "typescript-vim": "leafgarland/typescript-vim",
+    "vimproc.vim": "Shougo/vimproc.vim",
+    "tsuquyomi": "Quramy/tsuquyomi#^0.6.1",
+    "vim-es6": "isRuslan/vim-es6",
+    "vim-mustache-handlebars": "mustache/vim-mustache-handlebars"
+  }
+}
