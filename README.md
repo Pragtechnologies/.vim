@@ -13,11 +13,10 @@ Just run the command:
 
 # Setup
 
-1. Go to
-```~/.vim```
-2. Clone this repo
-3. Run `bower install`
-4. For first setup, you need to move the autoload folder of vim-pathogen in the `~/.vim` directory. Run the following:
-```mv bundle/vim-pathogen/autoload .```
+ - Go to `~/.vim`
+ - Clone this repo
+ - Run `bower install`
+ - For first setup, you need to move the autoload folder of vim-pathogen in the `~/.vim` directory. Run the following:
+ ```mv bundle/vim-pathogen/autoload .```
 
 That's it. All your vim pluggins is well maintained through bower.
