@@ -13,8 +13,8 @@ Just run the command:
 
 # Setup
 
- - Go to `~/.vim`
- - Clone this repo
+ - Go to `~`
+ - Clone this repo. If `/.vim` already exists, delete it.
  - Run `bower install`
  - For first setup, you need to move the autoload folder of vim-pathogen in the `~/.vim` directory. Run the following:
  ```mv bundle/vim-pathogen/autoload .```
