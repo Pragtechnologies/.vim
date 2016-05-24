@@ -21,6 +21,9 @@
     "tsuquyomi": "Quramy/tsuquyomi#^0.6.1",
     "vim-es6": "isRuslan/vim-es6",
     "vim-mustache-handlebars": "mustache/vim-mustache-handlebars",
-    "vim-markdown": "tpope/vim-markdown"
+    "vim-markdown": "tpope/vim-markdown",
+    "vim-autoclose": "Townk/vim-autoclose",
+    "closetag.vim": "vim-scripts/closetag.vim#^0.9.1",
+    "vim-matchit": "edsono/vim-matchit"
   }
 }
