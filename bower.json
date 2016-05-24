@@ -24,6 +24,7 @@
     "vim-markdown": "tpope/vim-markdown",
     "vim-autoclose": "Townk/vim-autoclose",
     "nerdtree": "scrooloose/nerdtree#^5.0.0",
-    "closetag.vim": "vim-scripts/closetag.vim#^0.9.1"
+    "closetag.vim": "vim-scripts/closetag.vim#^0.9.1",
+    "vim-elixir": "elixir-lang/vim-elixir"
   }
 }
