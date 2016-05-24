@@ -41,4 +41,4 @@ If ever you want to reformat your vim pluggins, you can simply run the command b
 ```
 curl -o- https://raw.githubusercontent.com/Pragtechnologies/.scripts/master/vim-setup.sh | bash
 ```
-**Warning: This will remove you ~/.vim folder.**
+**Warning: This will remove your ~/.vim folder.**
