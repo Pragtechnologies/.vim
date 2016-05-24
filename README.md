@@ -25,7 +25,7 @@ In linux, you could easily do this through:
  ```mv bundle/vim-pathogen/autoload .```
 
 ## Extra step for Command-T
-Command-T needs to be compiled using ruby that was used when you've installed vim. To know the ruby version of your vim:
+Command-T needs to be compiled using ruby that was used when you've installed vim. To know the ruby version, run this in vim:
 ```:ruby puts "#{RUBY_VERSION}-p#{RUBY_PATCHLEVEL}"```
 
 Make sure to install ruby with the same version. Once done, do the following:
@@ -35,8 +35,10 @@ ruby extconf.rb make
 rake make
 ```
 
-That's it. All your vim pluggins is well maintained through bower.
+That's it. All your vim pluggins is maintained through bower.
 
 If ever you want to reformat your vim pluggins, you can simply run the command below:
+```
 curl -o- https://raw.githubusercontent.com/Pragtechnologies/.scripts/master/vim-setup.sh | bash
+```
 **Warning: This will remove you ~/.vim folder.**
