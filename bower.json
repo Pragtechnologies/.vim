@@ -26,6 +26,7 @@
     "nerdtree": "scrooloose/nerdtree#^5.0.0",
     "closetag.vim": "vim-scripts/closetag.vim#^0.9.1",
     "vim-elixir": "elixir-lang/vim-elixir",
-    "scss-syntax.vim": "cakebaker/scss-syntax.vim"
+    "scss-syntax.vim": "cakebaker/scss-syntax.vim",
+    "vim-slim": "slim-template/vim-slim"
   }
 }
