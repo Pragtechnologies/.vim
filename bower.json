@@ -27,6 +27,7 @@
     "closetag.vim": "vim-scripts/closetag.vim#^0.9.1",
     "vim-elixir": "elixir-lang/vim-elixir",
     "scss-syntax.vim": "cakebaker/scss-syntax.vim",
+    "vim-jsx": "mxw/vim-jsx",
     "vim-slim": "slim-template/vim-slim"
   }
 }
