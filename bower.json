@@ -29,6 +29,7 @@
     "scss-syntax.vim": "cakebaker/scss-syntax.vim",
     "vim-jsx": "mxw/vim-jsx",
     "vim-slim": "slim-template/vim-slim",
-    "vim-emblem": "heartsentwined/vim-emblem#^1.2.0"
+    "vim-emblem": "heartsentwined/vim-emblem#^1.2.0",
+    "vim-pug": "digitaltoad/vim-pug"
   }
 }
